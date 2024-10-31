@@ -1,0 +1,4 @@
+Income,Food,120000
+Expense,Rent,1.2e+010
+income,food,1.2e+011
+Income,Food,1.2e+012
